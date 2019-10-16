@@ -1,0 +1,13 @@
+Here is a list of certain packages and databases that could be used in TF analysis
+1. iRegulon : cytoscape plugin
+`http://iregulon.aertslab.org/index.html`
+
+2. TRRUST database : https://www.grnpedia.org/trrust/
+Unofficial R package
+`https://github.com/anujg30/packages/tree/master/R/binf.trrust`
+
+3. RTN: Reconstruction of Transcriptional regulatory Networks and analysis of regulons
+`https://bioconductor.org/packages/devel/bioc/vignettes/RTN/inst/doc/RTN.html`
+
+4. GeneNetworkBuilder: a bioconductor package for building regulatory network using ChIP-chip/ChIP-seq data and Gene Expression Data
+`https://bioconductor.org/packages/release/bioc/html/GeneNetworkBuilder.html`

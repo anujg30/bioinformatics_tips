@@ -11,3 +11,15 @@ Unofficial R package
 
 4. GeneNetworkBuilder: a bioconductor package for building regulatory network using ChIP-chip/ChIP-seq data and Gene Expression Data
 `https://bioconductor.org/packages/release/bioc/html/GeneNetworkBuilder.html`
+
+5. TFcheckpoint
+`http://www.tfcheckpoint.org/index.php`
+
+6. SwissRegulon
+`swissregulon.unibas.ch`
+
+7. Transcription Factor Target Gene Database
+`http://tfbsdb.systemsbiology.net/constructionValidation`
+
+8. ENCODE Transcription Factor Targets
+`https://amp.pharm.mssm.edu/Harmonizome/dataset/ENCODE+Transcription+Factor+Targets`
